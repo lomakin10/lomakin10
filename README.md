@@ -1,8 +1,4 @@
 - 👋 Hi, I’m David
-- 👀 I’m interested in water polo
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord or davidlomakin@yahoo.com
 
 <!---
 lomakin10/lomakin10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
